@@ -14,7 +14,7 @@ def main(page: ft.Page):
         page.update()
 
     def plus_click(e):
-        hello_world()
+        #hello_world()
         txt_number.value = str(int(txt_number.value) + 3)
         page.update()
 
