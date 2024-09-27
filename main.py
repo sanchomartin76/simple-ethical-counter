@@ -1,6 +1,6 @@
 import flet as ft
 import test
-from test import hello_world
+
 
 def main(page: ft.Page):
     page.title = "Flet counter example"
