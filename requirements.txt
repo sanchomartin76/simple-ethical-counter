@@ -1,3 +1,4 @@
 flet==0.22.1
 flet-core==0.22.1
 flet-runtime==0.22.1
+pandas-ta
