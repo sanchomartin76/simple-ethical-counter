@@ -1,6 +1,3 @@
 flet==0.23.1
 pytz
-pandas-market-calendars==4.1.4
-pandas-ta==0.3.14b0
-PyDrive==1.3.1
-pyotp==2.9.0
+pandas-market-calendars
